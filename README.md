@@ -1,6 +1,5 @@
 ### Oi, sou o Bruno! 👋
 
-- 🔭 Atualmente sou estágiario de TI.
 - 🌱 Estou aprendendo no momento tecnologias para desenvolvimento frontend e redes de computadores.
 
 <div>
