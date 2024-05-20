@@ -1,6 +1,6 @@
 ### Oi, sou o Bruno! 👋
 
-- 🌱 Estou aprendendo no momento tecnologias para desenvolvimento frontend e redes de computadores.
+- 🌱 Estou aprendendo no momento tecnologias para desenvolvimento web fullstack
 
 <div>
 
